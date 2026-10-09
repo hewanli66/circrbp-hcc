@@ -1,0 +1,69 @@
+# circRNA生物发生相关RNA结合蛋白（circRBP）基因列表
+# 主要来源：Li X et al., Mol Cell 2017; 67(2):214-227（功能缺失筛选，原文 103 个候选）
+#          Conn SJ et al., Cell 2015; 160(6):1125-1134（QKI）
+#          Fei T et al., PNAS 2017; 114(24):E5207-E5215（HNRNPL）
+#          Ivanov A et al., Cell Rep 2015; 7(2):555-565（ADAR）
+#          Errichelli L et al., Cell Rep 2017; 20(2):434-441（FUS）
+#          Okholm TLH et al., Genome Biol 2020; 21:295（eCLIP全景，含 KHSRP/IGF2BP家族）
+#          以及 IGF2BP3-circCOCH 调控的实验证据：Jiang W et al., Transl Oncol 2024; 49:102090
+# 注：数据就绪后将用 Li 2017 原文补充表的全量 103 基因列表替换/合并本表
+QKI
+FUS
+HNRNPL
+HNRNPA1
+HNRNPA2B1
+HNRNPC
+HNRNPF
+HNRNPH1
+HNRNPH2
+HNRNPK
+HNRNPM
+HNRNPU
+PTBP1
+PCBP1
+PCBP2
+NONO
+SFPQ
+ILF3
+DHX9
+DDX5
+DDX39A
+DDX39B
+MBNL1
+MBNL2
+RBM20
+RBM3
+RBM4
+RBM8A
+RBM15
+RBM15B
+RBMX
+SRSF1
+SRSF2
+SRSF3
+SRSF6
+SRSF10
+TRA2A
+TRA2B
+YTHDC1
+METTL3
+WTAP
+EIF4A3
+ESRP1
+ESRP2
+KHSRP
+NUDT21
+SLU7
+TIA1
+IGF2BP1
+IGF2BP2
+IGF2BP3
+LIN28B
+FXR1
+FXR2
+FMR1
+TARDBP
+ADAR
+ADARB1
+NOVA1
+NOVA2

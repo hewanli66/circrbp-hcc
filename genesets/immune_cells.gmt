@@ -1,0 +1,28 @@
+# 免疫细胞 ssGSEA 标记基因集（整理自公开发表的标记基因）
+# 主要参考：Bindea G et al., Immunity 2013; 39(4):782-795（24种免疫细胞）
+#          Charoentong P et al., Cell Rep 2017; 18(1):248-262（28种免疫细胞）
+# 用法：基因集富集分析（ssGSEA），每个细胞类型取特征性 marker
+CD8_T_cells	Bindea2013	CD8A	CD8B	CD2
+CD4_T_cells	Bindea2013	CD4	IL7R
+Treg	Bindea2013	FOXP3	IL2RA	CTLA4
+T_helper_cells	Bindea2013	CD3D	CD3E	CD3G
+Th1_cells	Bindea2013	TBX21	IFNG	STAT1	IL12RB2
+Th2_cells	Bindea2013	GATA3	IL4	IL5	IL13
+Tfh	Bindea2013	BCL6	CXCR5	ICOS	PDCD1
+NK_cells	Bindea2013	NCAM1	NCR1	NKG7	KLRB1	KLRD1
+B_cells	Bindea2013	CD19	CD79A	CD79B	MS4A1
+Plasma_cells	Charoentong2017	IGHG1	IGHG2	CD27	SDC1
+Macrophages	Bindea2013	CD68	CD163	MSR1	MRC1
+Monocytes	Bindea2013	CD86	CSF1R	ITGAM
+DC	Bindea2013	ITGAX	HLA-DRA	CD1C
+iDC	Bindea2013	HLA-DPB1	HLA-DQB1
+aDC	Bindea2013	CD83	CD80	CD86
+Neutrophils	Bindea2013	CSF3R	FCGR3B	CEACAM8
+Eosinophils	Bindea2013	EPX	PRG2
+Mast_cells	Bindea2013	TPSAB1	TPSB2	KIT
+Cytotoxic_cells	Bindea2013	PRF1	GZMA	GZMB	GNLY	NKG7
+Gamma_delta_T	Charoentong2017	TRGC1	TRGC2	TRDC
+NK_CD56bright	Charoentong2017	NCAM1	KLRC1	XCL1
+NK_CD56dim	Charoentong2017	FCGR3A	KLRF1
+MDSC	Charoentong2017	ARG1	CD33	ITGAM
+T_gamma_delta	Bindea2013	TRGV9	TRDV2
