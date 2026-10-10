@@ -2,7 +2,7 @@
 
 本仓库包含论文 *Systematic characterization of circRNA biogenesis-related RNA-binding proteins in hepatocellular carcinoma identifies a four-gene prognostic signature associated with dedifferentiation, immune evasion, and therapeutic vulnerability* 的完整分析代码。
 
-作者：Wanli He¹\*、Weiwei Jiang¹（¹ School of Medicine, Shangqiu Institute of Technology, Shangqiu, Henan, China；\* 通讯作者 hewanli66@126.com）
+作者：Wanli He¹\*、Weiwei Jiang¹（¹ School of Medicine, Shangqiu Institute of Technology, Shangqiu, Henan, China；\* 通讯作者 1350012019@sqgxy.edu.cn）
 
 ## 环境
 
